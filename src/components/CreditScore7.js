@@ -34,7 +34,7 @@ class CreditScore7 extends Component {
     return(
       <div className="BodyComponent">
         <div>
-          <p className="LargeText">What's your credit score?</p>
+          <p className="LargeText">What is your credit score?</p>
         </div>
         <div className="ButtonRow">
           <button onClick={this.c7great.bind(this)} className="RoundButton"><Link to="/PhoneEmail8" className="WhiteNoUnderlineLink">Excellent (720+)</Link></button>
