@@ -33,7 +33,7 @@ class BusinessNameZIP5 extends Component {
       <div className="BodyComponent">
         <div className="CenterAlignButtonsAndInputs">
           <div>
-            <p className="LargeText">What's the name of your business?</p>
+            <p className="LargeText">What is the name of your business?</p>
           </div>
           <div>
             <input
@@ -43,7 +43,7 @@ class BusinessNameZIP5 extends Component {
               onChange={(event) => this.onHandleChangeBName(event)}
             />
             <div>
-              <p className="LargeText">What's your business ZIP Code?</p>
+              <p className="LargeText">What is your business ZIP Code?</p>
             </div>
             <input
               className="InputStandard"

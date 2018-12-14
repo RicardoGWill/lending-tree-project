@@ -25,7 +25,7 @@ class Revenue4 extends Component {
       <div className="BodyComponent">
         <div className="CenterAlignButtonsAndInputs">
           <div>
-            <p className="LargeText">What's your annual revenue?</p>
+            <p className="LargeText">What is your annual revenue?</p>
           </div>
           <div>
             $<input

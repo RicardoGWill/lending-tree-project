@@ -33,7 +33,7 @@ class PhoneEmail8 extends Component {
       <div className="BodyComponent">
         <div className="CenterAlignButtonsAndInputs">
           <div>
-            <p className="LargeText">What's the best way to reach you?</p>
+            <p className="LargeText">What is the best way to reach you?</p>
           </div>
           <div>
             <div>

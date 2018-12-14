@@ -33,7 +33,7 @@ class ContactName6 extends Component {
       <div className="BodyComponent">
         <div className="CenterAlignButtonsAndInputs">
           <div>
-            <p className="LargeText">What's your name?</p>
+            <p className="LargeText">What is your name?</p>
           </div>
           <div>
             <div>
